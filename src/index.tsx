@@ -1,5 +1,4 @@
 import React from 'react';
-import { useQuery, QueryCache, ReactQueryCacheProvider } from 'react-query';
 
 import Router from './router';
 import ThemeProvider from './theme';
