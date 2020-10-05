@@ -1,10 +1,10 @@
 import React from 'react';
 
-import Button from '../../button';
 import ContextDisplay from './contextDisplay';
 import Timer from './timer';
 import { ButtonStyle, Container, Title, Subtitle } from './styles';
-import OTPField from '../../../commons/input/otpField';
+import OTPField from '../../commons/input/otpField';
+import Button from '../button';
 
 interface VerifyIdentityViewProps {
   testID?: string;

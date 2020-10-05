@@ -1,10 +1,10 @@
-import React, { useState, useEffect, Fragment } from 'react';
+import React, { useEffect, Fragment } from 'react';
 import { TouchableOpacity } from 'react-native';
 import { ActivityIndicator } from 'react-native-paper';
+import { useThemeContext } from '../../../theme';
+import applyScale from '../../../utils/applyScale';
 
-import applyScale from '../../../../utils/applyScale';
 import { Time, ResendLabel, Spinner } from './styles';
-import { useThemeContext } from '../../../../theme';
 
 interface ITimer {
   handleResendOTP(): void;

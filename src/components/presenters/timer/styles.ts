@@ -1,6 +1,4 @@
 import styled from 'styled-components/native';
-import { theme } from '../../../../theme/types';
-import applyScale from '../../../../utils/applyScale';
 
 export const Time = styled.Text`
   font-size: ${({ theme }) => theme.fonts.LARGE_SIZE}px;
