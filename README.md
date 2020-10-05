@@ -9,4 +9,4 @@
 5. Drawer menu
 6. Axios
 
-### Note I will be updating this template as time goes on.
+### NOTE: I will be updating this template as time goes on.
