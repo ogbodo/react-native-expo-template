@@ -10,19 +10,9 @@
 6. Axios
 
 ## Summary of components are:
+![alt text](https://github.com/ogbodo/react-native-expo-template/blob/main/assets/2.png?raw=true)
 
-<img
-src="./assets/1.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
+![alt text](https://github.com/ogbodo/react-native-expo-template/blob/main/assets/1.png?raw=true)
 
-<img
-src="./assets/2.png”
-raw=true
-alt=“Subject Pronouns”
-style=“margin-right: 10px;”
-/>
 
 ### NOTE: I will be updating this template as time goes on.
