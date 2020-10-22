@@ -1,5 +1,5 @@
 import React from 'react';
-import { Avatar, Badge, Icon, withBadge } from 'react-native-elements';
+import { Avatar, Badge, } from 'react-native-elements';
 import { heightPercentageToDP as HP } from 'react-native-responsive-screen';
 
 import Button from '../../components/button';
@@ -39,11 +39,6 @@ export default function HomeScreen({ navigation }: HomeScreenProp) {
             uri: 'https://bit.ly/2TcUWv4'
           }}
           size="large"
-        />
-
-        <Badge
-          status="success"
-          containerStyle={{ position: 'absolute', top: -4, right: -4 }}
         />
 
         <AvatarContainer>
